@@ -11,8 +11,8 @@ a significant decrease in file size.
 Note:
 
     •  The Binary String could not be written in a separate binary file. Instead the 
-       Binary String has been grouped into sets of 8 bits and written their corresponding
-       character.
+       Binary String has been grouped into sets of 8 bits and their corresponding
+       character has been written.
        
     •  There is no provision to write the character mapping. Hence, a compressed fie must
        be decompressed in the same execution, and also without compressing any other file
