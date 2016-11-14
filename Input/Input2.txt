@@ -1,0 +1,246 @@
+this is a short input file composed entirely of spaces and lowercase letters
+and end of line characters to help you test your code
+
+
+
+
+
+
+ewrgiwherighiwer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#!/bin/bash
+#This is first script
+#echo "thi"
+#x=10
+
+#echo $x
+#echo "Pls enter the value of a , b and c"
+#read a b c
+#echo "the value of a is "$a 
+#echo "the value of b is "$b
+#echo "the value of c is "$c
+
+#if [ $a -gt $b ] 
+# then
+#	if [ $a -gt $c ]
+#	 then
+#	 	 echo "The greatest is "$a
+#	 else  
+#	 	printf "$c is largest"
+#	 fi
+#elif [ $b -gt $c ] 
+#	 echo "The greatest is "$b
+ #else 
+ #	printf "$c is largest"
+#fi
+
+#like switch case ..we have case in unix
+#echo -e "\nEnter a color of rainbow(1-7)"
+#-e     enable interpretation of backslash escapes
+
+#read color
+
+
+#case $color in
+#1)echo violet;;
+#2)echo Indigo;;
+#3)echo Blue;;
+#4)echo green;;
+#5)echo yellow;;
+#6)echo Orange;;
+#7)echo red;;
+#*)echo Its only from 1 to 7;;
+#esac
+#Syntax:
+#case value in
+#pattern1 cmd;;
+#pattern2 cmd;;
+#...patternn cmd;;
+#*)defaultstatement
+#esac
+#[a-z])    this can also be used to select anything entered between a to z
+#
+#
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hdgrdgrdtrdtrtrdtrdt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+635135135135135
+gjyhtc
+yhtyt
+/bin/rbash
+
+------lists the shells and displays in  terminal
+$ chsh -help
+Usage: chsh [options] [LOGIN]
+
+Options:
+  -h, --help                    display this help message and exit
+  -R, --root CHROOT_DIR         directory to chroot into
+  -s, --shell SHELL             new login shell for the user account
+
+sh
+$  -----to change to sh shell
+
+tochange shells --- $chsh -s /bin/sh  --- to change to sh shell
+b7rin67irn8o
+ebrte1u5e75
+N
+%57
+66546

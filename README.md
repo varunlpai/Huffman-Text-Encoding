@@ -8,6 +8,8 @@ Each Character is replaced by a Binary String.
 Since the Binary String on an average is usually less than 8 bits, there will be
 a significant decrease in file size.
 
+Execute gui.java to begin Huffman Compression.
+
 Note:
 
     •  The Binary String could not be written in a separate binary file. Instead the 
